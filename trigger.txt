@@ -1,1 +1,1 @@
-nginx registry.cn-shanghai.aliyuncs.com/hvisual/nginx:test
+mediagis/nominatim:4.4 registry.cn-shanghai.aliyuncs.com/hvisual/nominatim:4.4
