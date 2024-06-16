@@ -1,1 +1,1 @@
-mediagis/nominatim:4.4 registry.cn-shanghai.aliyuncs.com/hvisual/nominatim:4.4
+mediagis/nominatim:4.4 registry.cn-shanghai.aliyuncs.com/hvisual/nominatim:4.4 
