@@ -1,1 +1,1 @@
-mcr.microsoft.com/dotnet/aspnet:7.0-bullseye-slim registry.cn-shanghai.aliyuncs.com/hvisual/aspnet:7.0-bullseye-slim
+traccar/traccar:6.2 registry.cn-shanghai.aliyuncs.com/hvisual/traccar:6.2
