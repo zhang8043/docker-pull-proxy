@@ -1,1 +1,2 @@
-traccar/traccar:6.2 registry.cn-shanghai.aliyuncs.com/hvisual/traccar:6.2
+osixia/openldap:latest registry.cn-shanghai.aliyuncs.com/hvisual/openldap:latest
+osixia/phpldapadmin registry.cn-shanghai.aliyuncs.com/hvisual/phpldapadmin:latest
