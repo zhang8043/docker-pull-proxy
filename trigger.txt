@@ -1,2 +1,1 @@
-osixia/openldap:latest registry.cn-shanghai.aliyuncs.com/hvisual/openldap:latest
-osixia/phpldapadmin registry.cn-shanghai.aliyuncs.com/hvisual/phpldapadmin:latest
+keymetrics/pm2:16-alpine registry.cn-shanghai.aliyuncs.com/hvisual/pm2:16-alpine
