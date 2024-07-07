@@ -1,1 +1,1 @@
-keymetrics/pm2:16-alpine registry.cn-shanghai.aliyuncs.com/hvisual/pm2:16-alpine
+israelhikingmap/graphhopper:latest registry.cn-shanghai.aliyuncs.com/hvisual/graphhopper:latest
