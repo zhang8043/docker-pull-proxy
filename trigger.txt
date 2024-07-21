@@ -1,1 +1,1 @@
-israelhikingmap/graphhopper:latest registry.cn-shanghai.aliyuncs.com/hvisual/graphhopper:latest
+maptiler/server:4.5.0 registry.cn-shanghai.aliyuncs.com/hvisual/maptiler:4.5.0
