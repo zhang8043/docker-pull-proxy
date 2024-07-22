@@ -1,1 +1,1 @@
-maptiler/server:4.5.0 registry.cn-shanghai.aliyuncs.com/hvisual/maptiler:4.5.0
+ghcr.io/maplibre/maputnik:main registry.cn-shanghai.aliyuncs.com/hvisual/maputnik:main
