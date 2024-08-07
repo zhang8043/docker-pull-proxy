@@ -1,1 +1,1 @@
-ghcr.io/maplibre/maputnik:main registry.cn-shanghai.aliyuncs.com/hvisual/maputnik:main
+postgis/postgis:12-master registry.cn-shanghai.aliyuncs.com/hvisual/postgis:12-master
