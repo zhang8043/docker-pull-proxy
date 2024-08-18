@@ -1,1 +1,1 @@
-postgis/postgis:12-master registry.cn-shanghai.aliyuncs.com/hvisual/postgis:12-master
+docker.osgeo.org/geoserver:2.25.0 registry.cn-shanghai.aliyuncs.com/hvisual/geoserver:2.25.0
