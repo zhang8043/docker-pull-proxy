@@ -1,1 +1,1 @@
-docker.osgeo.org/geoserver:2.25.0 registry.cn-shanghai.aliyuncs.com/hvisual/geoserver:2.25.0
+openjdk:8-alpine registry.cn-shanghai.aliyuncs.com/hvisual/openjdk:8-alpine
