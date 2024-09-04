@@ -1,1 +1,1 @@
-tr​​accar/traccar:6.4 registry.cn-shanghai.aliyuncs.com/hvisual/traccar:6.4
+traccar:6.4 registry.cn-shanghai.aliyuncs.com/hvisual/traccar:6.4
