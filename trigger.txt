@@ -1,1 +1,1 @@
-openjdk:8-alpine registry.cn-shanghai.aliyuncs.com/hvisual/openjdk:8-alpine
+tr​​accar/traccar:6.4 registry.cn-shanghai.aliyuncs.com/hvisual/traccar:6.4
