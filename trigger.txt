@@ -1,1 +1,1 @@
-traccar/traccar:6.4 registry.cn-shanghai.aliyuncs.com/hvisual/traccar:6.4
+onlyoffice/documentserver:latest registry.cn-shanghai.aliyuncs.com/hvisual/documentserver:latest
