@@ -1,1 +1,1 @@
-onlyoffice/documentserver:latest registry.cn-shanghai.aliyuncs.com/hvisual/documentserver:arm
+nginx:latest registry.cn-shanghai.aliyuncs.com/hvisual/nginx_arm:latest
