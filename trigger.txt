@@ -1,1 +1,1 @@
-nginx:latest registry.cn-shanghai.aliyuncs.com/hvisual/nginx_arm:latest
+postgres:12 registry.cn-shanghai.aliyuncs.com/hvisual/postgres:12
