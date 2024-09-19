@@ -1,1 +1,1 @@
-postgres:12 registry.cn-shanghai.aliyuncs.com/hvisual/postgres:12
+mcr.microsoft.com/dotnet/aspnet:6.0 registry.cn-shanghai.aliyuncs.com/hvisual/aspnet:6.0
