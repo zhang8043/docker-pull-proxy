@@ -1,1 +1,1 @@
-mcr.microsoft.com/dotnet/sdk:8.0 registry.cn-shanghai.aliyuncs.com/hvisual/dotnet:8.0
+mcr.microsoft.com/dotnet/aspnet:8.0 registry.cn-shanghai.aliyuncs.com/hvisual/aspnet:8.0
