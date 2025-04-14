@@ -1,1 +1,1 @@
-calciumion/new-api:latest registry.cn-shanghai.aliyuncs.com/hvisual/new-api:latest
+traccar/traccar:6 registry.cn-shanghai.aliyuncs.com/hvisual/traccar:6
