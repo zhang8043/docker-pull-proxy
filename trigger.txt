@@ -1,1 +1,1 @@
-traccar/traccar:6.6 registry.cn-shanghai.aliyuncs.com/hvisual/traccar:6.6
+vtigercrm/vtigercrm-8.3.0 registry.cn-shanghai.aliyuncs.com/hvisual/vtigercrm-8.3.0
