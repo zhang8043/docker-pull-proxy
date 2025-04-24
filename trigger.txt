@@ -1,1 +1,1 @@
-odoo:18.0 registry.cn-shanghai.aliyuncs.com/hvisual/odoo:18.0
+odoo:17.0 registry.cn-shanghai.aliyuncs.com/hvisual/odoo:17.0
