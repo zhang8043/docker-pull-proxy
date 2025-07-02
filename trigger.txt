@@ -1,1 +1,1 @@
-geosolutionsit/mapstore2:latest registry.cn-shanghai.aliyuncs.com/hvisual/mapstore2:latest
+tomcat:9-jdk11 registry.cn-shanghai.aliyuncs.com/hvisual/tomcat:9-jdk11
