@@ -1,1 +1,1 @@
-tomcat:9-jdk11 registry.cn-shanghai.aliyuncs.com/hvisual/tomcat:9-jdk11
+docker.gitea.com/gitea:1.24.5 registry.cn-shanghai.aliyuncs.com/hvisual/gitea:1.24.5
