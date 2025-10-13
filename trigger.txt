@@ -1,1 +1,1 @@
-elsaworkflows/elsa-server-v3-5:latest registry.cn-shanghai.aliyuncs.com/hvisual/elsa-server-v3-5:latest
+elsaworkflows/elsa-studio-v3-5:latest registry.cn-shanghai.aliyuncs.com/hvisual/elsa-studio-v3-5:latest
