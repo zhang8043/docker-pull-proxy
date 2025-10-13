@@ -1,1 +1,1 @@
-portainer/portainer-ce:lts registry.cn-shanghai.aliyuncs.com/hvisual/portainer-ce:lts
+elsaworkflows/elsa-server-v3-5:latest registry.cn-shanghai.aliyuncs.com/hvisual/elsa-server-v3-5:latest
