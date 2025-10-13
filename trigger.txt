@@ -1,1 +1,1 @@
-portainer-ce:lts registry.cn-shanghai.aliyuncs.com/hvisual/portainer-ce:lts
+portainer/portainer-ce:lts registry.cn-shanghai.aliyuncs.com/hvisual/portainer-ce:lts
