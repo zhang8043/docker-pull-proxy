@@ -1,1 +1,1 @@
-snowdreamtech/frpc:latest registry.cn-shanghai.aliyuncs.com/hvisual/frpc:latest
+neilpang/acme.sh:latest registry.cn-shanghai.aliyuncs.com/hvisual/acme.sh:latest
