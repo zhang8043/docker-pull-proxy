@@ -1,1 +1,1 @@
-neilpang/acme.sh:latest registry.cn-shanghai.aliyuncs.com/hvisual/acme.sh:latest
+docker.io/authelia/authelia:latest registry.cn-shanghai.aliyuncs.com/hvisual/authelia:latest
