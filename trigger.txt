@@ -1,1 +1,2 @@
-docker.io/authelia/authelia:latest registry.cn-shanghai.aliyuncs.com/hvisual/authelia:latest
+redis:alpine registry.cn-shanghai.aliyuncs.com/hvisual/redis:alpine
+traefik/whoami registry.cn-shanghai.aliyuncs.com/hvisual/traefik
