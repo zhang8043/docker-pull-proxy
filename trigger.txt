@@ -1,2 +1,2 @@
 redis:alpine registry.cn-shanghai.aliyuncs.com/hvisual/redis:alpine
-traefik/whoami registry.cn-shanghai.aliyuncs.com/hvisual/traefik
+traefik:v2.9.5 registry.cn-shanghai.aliyuncs.com/hvisual/traefik:v2.9.5
