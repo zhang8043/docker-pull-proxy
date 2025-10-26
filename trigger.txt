@@ -1,2 +1,1 @@
-casbin/casdoor-all-in-one registry.cn-shanghai.aliyuncs.com/hvisual/casdoor:casdoor-all-in-one
 casbin/casdoor:latest registry.cn-shanghai.aliyuncs.com/hvisual/casdoor:latest
