@@ -1,2 +1,2 @@
-redis:alpine registry.cn-shanghai.aliyuncs.com/hvisual/redis:alpine
-traefik:v2.9.5 registry.cn-shanghai.aliyuncs.com/hvisual/traefik:v2.9.5
+casbin/casdoor-all-in-one registry.cn-shanghai.aliyuncs.com/hvisual/casdoor:casdoor-all-in-one
+casbin/casdoor:latest registry.cn-shanghai.aliyuncs.com/hvisual/casdoor:latest
