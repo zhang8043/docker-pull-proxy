@@ -1,2 +1,1 @@
-casbin/casdoor:latest registry.cn-shanghai.aliyuncs.com/hvisual/casdoor:latest
-casbin/casdoor:v2.101.0 registry.cn-shanghai.aliyuncs.com/hvisual/casdoor:v2.101.0
+jeessy/ddns-go registry.cn-shanghai.aliyuncs.com/hvisual/ddns-go:latest
