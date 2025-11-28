@@ -1,1 +1,1 @@
-jeessy/ddns-go registry.cn-shanghai.aliyuncs.com/hvisual/ddns-go:latest
+minio/minio:RELEASE.2025-09-07T16-13-09Z registry.cn-shanghai.aliyuncs.com/hvisual/minio:RELEASE.2025-09-07T16-13-09Z
