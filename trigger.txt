@@ -1,1 +1,1 @@
-onlyoffice/documentserver:latest registry.cn-shanghai.aliyuncs.com/hvisual/onlyoffice/documentserver:latest
+onlyoffice/documentserver:latest registry.cn-shanghai.aliyuncs.com/hvisual/onlyoffice:latest
